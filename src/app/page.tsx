@@ -74,7 +74,7 @@ export default function Home() {
       </section>
 
       <footer className="py-10 text-center text-sm" style={{ color: "#a1a1aa" }}>
-        <p>&copy; 2026 SocialBridge. All rights reserved.</p>
+        <p>&copy; 2026 Ember Ventures LLC. All rights reserved.</p>
         <div className="flex gap-6 justify-center mt-3">
           <a href="#" className="hover:underline">Privacy Policy</a>
           <a href="#" className="hover:underline">Terms of Service</a>
