@@ -35,9 +35,9 @@ export default function Home() {
           <h1 className="text-5xl font-bold tracking-tight mb-4" style={{ color: "#1a1a2e" }}>SocialBridge</h1>
           <p className="text-xl mb-10" style={{ color: "#6b7280" }}>Manage all your creators. Every platform. One app.</p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <a href="https://github.com/hamzahskaik/SocialBridge/releases/latest" className="px-8 py-3 rounded-xl font-semibold text-white transition-all duration-150 hover:opacity-90 flex items-center gap-2" style={{ backgroundColor: "#7c3aed" }}>
+            <a href="https://github.com/hamzahskaik/SocialBridge/releases/download/v1.0.0/SocialBridge-1.0.0-arm64.dmg" className="px-8 py-3 rounded-xl font-semibold text-white transition-all duration-150 hover:opacity-90 flex items-center gap-2" style={{ backgroundColor: "#7c3aed" }}>
               <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
-              Download
+              Download for Mac
             </a>
             <a href="#features" className="px-8 py-3 rounded-xl font-semibold border-2 transition-all duration-150 hover:bg-purple-50" style={{ color: "#7c3aed", borderColor: "#7c3aed" }}>Learn More</a>
           </div>
