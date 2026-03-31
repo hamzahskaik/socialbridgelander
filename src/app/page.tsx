@@ -33,7 +33,8 @@ export default function Home() {
         <div className="relative z-10 text-center max-w-2xl">
           <img src="/logo.svg" alt="SocialBridge" className="h-12 mx-auto mb-6 animate-float" />
           <h1 className="text-5xl font-bold tracking-tight mb-4" style={{ color: "#1a1a2e" }}>SocialBridge</h1>
-          <p className="text-xl mb-10" style={{ color: "#6b7280" }}>Manage all your creators. Every platform. One app.</p>
+          <p className="text-xl mb-2" style={{ color: "#6b7280" }}>Manage all your creators. Every platform. One app.</p>
+          <p className="text-sm mb-10" style={{ color: "#a1a1aa" }}>A product by Ember Ventures LLC</p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a href="https://github.com/hamzahskaik/socialbridgelander/releases/download/v1.0.0/SocialBridge-1.0.0-arm64.dmg" className="px-8 py-3 rounded-xl font-semibold text-white transition-all duration-150 hover:opacity-90 flex items-center gap-2" style={{ backgroundColor: "#7c3aed" }}>
               <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
